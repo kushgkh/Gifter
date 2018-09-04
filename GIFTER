@@ -1,0 +1,50 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0By1-7OeQGQQNRDNlUTJTSTNkRU0",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    },
+    {
+      "fileId": "0B193RtKDSTtnSFkyZWxHc0NtRE0",
+      "contentType": "text/html",
+      "name": "items.html",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0By1-7OeQGQQNWF80TnVWejdFTnM",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "0By1-7OeQGQQNZHdvbHpsd0dEUkk",
+      "contentType": "text/javascript",
+      "name": "Backend.js",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    },
+    {
+      "fileId": "0By1-7OeQGQQNYk5LMi0tdnFaYjQ",
+      "contentType": "text/javascript",
+      "name": "Connector.js",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    },
+    {
+      "fileId": "0By1-7OeQGQQNWEU4ZHhCZHJ0cHM",
+      "contentType": "text/javascript",
+      "name": "code.js",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    },
+    {
+      "fileId": "0B193RtKDSTtnVkx1U09ncklCUXM",
+      "contentType": "text/javascript",
+      "name": "ebay.js",
+      "path": "0By1-7OeQGQQNVFVKMTI2WGtGWHc/"
+    }
+  ]
+}
